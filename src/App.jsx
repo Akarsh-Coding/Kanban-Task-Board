@@ -45,7 +45,7 @@ export default function App() {
     <div className="app">
       <header className="app__header">
         <div className="app__title-block">
-          <span className="app__eyebrow">Sprint 05 — Component Architecture</span>
+          <span className="app__eyebrow">Sprint 05</span>
           <h1 className="app__title">Kanban Task Board</h1>
         </div>
         <SearchBar value={searchTerm} onChange={setSearchTerm} />
